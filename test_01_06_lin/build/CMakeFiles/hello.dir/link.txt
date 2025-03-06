@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/hello.dir/test_hello.c.o CMakeFiles/hello.dir/addi.c.o -o hello

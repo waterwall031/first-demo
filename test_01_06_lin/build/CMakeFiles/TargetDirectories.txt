@@ -1,0 +1,3 @@
+/media/zhuzhiqiang/Documents/William/Documents/Code/vscode learning/test_01_06_lin/build/CMakeFiles/hello.dir
+/media/zhuzhiqiang/Documents/William/Documents/Code/vscode learning/test_01_06_lin/build/CMakeFiles/edit_cache.dir
+/media/zhuzhiqiang/Documents/William/Documents/Code/vscode learning/test_01_06_lin/build/CMakeFiles/rebuild_cache.dir
